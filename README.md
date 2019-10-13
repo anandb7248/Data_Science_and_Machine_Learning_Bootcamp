@@ -1,4 +1,4 @@
-# Complete_2019_Data_Science_and_Machine_Learning_Bootcamp
+# Complete 2019 Data Science & Machine Learning Bootcamp
 
 ## Notes
 https://docs.google.com/document/d/1RtYvyQZllewxvwECHAXaE3vx5_sK-mqBIkKxAIgv4OE/edit?usp=sharing
