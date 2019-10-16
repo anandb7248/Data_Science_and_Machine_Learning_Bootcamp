@@ -3,6 +3,10 @@
 ## Notes
 https://docs.google.com/document/d/1RtYvyQZllewxvwECHAXaE3vx5_sK-mqBIkKxAIgv4OE/edit?usp=sharing
 
+## Contents
+- [1 Data Science Steps](## Data Science Steps)
+- [2 Linear Regression](## Section 2: Predict Movie Box Office Revenue with Linear Regression)
+
 ## Section 2: Predict Movie Box Office Revenue with Linear Regression
 <img width="867" alt="Screen Shot 2019-10-15 at 6 06 45 PM" src="https://user-images.githubusercontent.com/19628705/66952388-63bdbc80-f011-11e9-897a-417c29a1e52b.png">
 <img width="1227" alt="Screen Shot 2019-10-15 at 8 57 46 PM" src="https://user-images.githubusercontent.com/19628705/66952396-68827080-f011-11e9-9e12-ea766754ce1c.png">
