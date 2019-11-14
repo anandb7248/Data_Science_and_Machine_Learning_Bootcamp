@@ -34,6 +34,13 @@ https://docs.google.com/document/d/1RtYvyQZllewxvwECHAXaE3vx5_sK-mqBIkKxAIgv4OE/
 <img width="500" alt="Screen Shot 2019-10-19 at 11 45 22 AM" src="https://user-images.githubusercontent.com/19628705/67150503-0de55080-f26d-11e9-924c-457c0f08ea4f.png">
 <img width="500" alt="Screen Shot 2019-10-19 at 11 45 04 AM" src="https://user-images.githubusercontent.com/19628705/67150504-1047aa80-f26d-11e9-8af4-7c55901b0bf3.png">
 
+# 4 Intro to Optimization and Gradien Descent Algorithm
+ ### How a Machine Learns
+<img width="1340" alt="Screen Shot 2019-10-21 at 10 28 16 PM" src="https://user-images.githubusercontent.com/19628705/68893557-3df00a00-06da-11ea-97c3-79486616ec87.png">
+
+
+
+
 
 # Useful Resources
 ## Matplotlib Style Galleries
